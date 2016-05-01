@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SUSolution</string>
+    <string name="git_user_name">xing</string>
+    <string name="github_base_url">https://api.github.com</string>
+    <string name="cancel">Cancel</string>
+    <string name="go">Go</string>
+    <string name="repo_url">Repo_URL</string>
+    <string name="owner_url">Owner_URL</string>
+    <string name="visit_repo_url">Visit Repository</string>
+    <string name="go_to_url">Go To URL</string>
+
+</resources>
